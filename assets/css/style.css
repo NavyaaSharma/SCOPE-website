@@ -59,3 +59,8 @@
     .aboutscope-section{
         padding: 50px;
     }
+    footer{
+        background-color: rgb(38, 38, 59);
+        padding: 20px;
+        color: white;
+    }
