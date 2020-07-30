@@ -3,10 +3,10 @@
     overflow:auto;
     }
 
-    li{float:right;}
+    .navs li{float:right;}
 
     .logo img{float:left;}
-    ul {
+    .navs ul {
             list-style-type: none;
             margin: 0;
             padding: 0;
@@ -14,7 +14,7 @@
             background-color: rgb(38, 38, 59);
             }
 
-    li a {
+    .navs li a {
             display: inline-block;
             color: white;
             text-align: center;
@@ -22,7 +22,7 @@
             text-decoration: none;
         } 
 
-    ul li a:hover{
+    .navs ul li a:hover{
     color:orange;
     
     }
